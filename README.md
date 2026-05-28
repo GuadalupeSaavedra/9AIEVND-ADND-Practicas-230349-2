@@ -1,5 +1,4 @@
 ![LogoTI](./images/Logo_TI.jpeg)
-
 ---
 
 # Repositorio de Práctica para la Asignatura de Análisis de Datos Para Negocios Digitales
